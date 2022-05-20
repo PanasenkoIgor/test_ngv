@@ -1,6 +1,7 @@
 # test_ngv
 Тестовое задание для NewGen Vision 
-ссылка на задание (https://newgen-it.github.io/tests/front)
+
+Cсылка на задание (https://newgen-it.github.io/tests/front)
 
 Алгоритм фильтрации:
 
